@@ -9,7 +9,7 @@ This is a simple and responsive web page that displays random facts about cats u
 - Live API integration using `https://catfact.ninja/fact`
 
 ## 🌐 Live Preview
-> *(Optional — Add your GitHub Pages / Netlify / Vercel link here if deployed)*
+> https://azhar-2002.github.io/Cats-Random-Facts/
 
 ## 🧪 Technologies Used
 - **HTML5**
